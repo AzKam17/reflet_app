@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.refletconsulting.cancx"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "owner": "yummaul",
+    "extra": {
+      "eas": {
+        "projectId": "bcbe5a55-3bd0-49a0-b0b7-edd7b88bfc26"
+      }
     }
   }
 }
